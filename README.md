@@ -3,7 +3,6 @@
 <!--
 **CrisUOC/CrisUOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a company where we offer services to manage transactions using the blockchain platform.
 - 🌱 I’m currently studying technology engineering and telecommunication services degree.
