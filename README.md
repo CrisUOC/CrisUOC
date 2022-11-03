@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about personal experiences, the workplace, and so on.
 - 📫 How to reach me: linkedin, github.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I like playing with my son, enjoying a cup of té in the afternoon on spring days, watching a Syfy movie, listening to electro music, tasting a delicious dish, taking a walk in the woods with my family
+- ⚡ Fun fact: I like playing with my son, enjoying a cup of té in the afternoon on spring days, watching a Syfy movie, listening to electro music, tasting a delicious dish, taking a walk in the woods with my family.
 -->
