@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a developer team.
-- 🌱 I’m currently learning Engineer of Communication degree
-- 👯 I’m looking to collaborate on Tokeny Solutions as QA
-- 🤔 I’m looking for help with solutions about data science, 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on a company where we offer services to manage transactions using the blockchain platform.
+- 🌱 I’m currently studying technology engineering and telecommunication services degree.
+- 👯 I’m looking to collaborate in the short future on a company that implements AI in the neurology area.
+- 🤔 I'm looking for help in getting involved in the programming area.
+- 💬 Ask me about personal experiences, the workplace, and so on.
+- 📫 How to reach me: linkedin, github.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like playing with my son, enjoying a cup of té in the afternoon on spring days, watching a Syfy movie, listening to electro music, tasting a delicious dish, taking a walk in the woods with my family
 -->
