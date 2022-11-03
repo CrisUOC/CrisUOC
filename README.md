@@ -1,6 +1,7 @@
 ### Hello my name is Cristian Salinas 
 I'm studying of Telecommunications Technology and Services Engineering degree 💻.
 <!--
+![](CrisUOC/Captura de pantalla 2022-11-03 a las 23.04.47.png)
 **CrisUOC/CrisUOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
