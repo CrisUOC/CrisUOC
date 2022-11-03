@@ -10,8 +10,8 @@
 - 🤔 I'm looking for help in getting involved in the programming area.
 - 💬 Ask me about personal experiences, the workplace, and so on.
 - 📫 How to reach me: 
-- - [twitter] (https://twitter.com/scris15)
-- - [linkedin] (https://www.linkedin.com/feed/)
+- - [twitter](https://twitter.com/scris15)
+- - [linkedin](https://www.linkedin.com/feed/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I like playing with my son, enjoying a cup of té in the afternoon on spring days, watching a Syfy movie, listening to electro music, tasting a delicious dish, taking a walk in the woods with my family.
 -->
