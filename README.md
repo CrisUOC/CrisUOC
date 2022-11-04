@@ -12,5 +12,5 @@
 ◆ [linkedin](https://www.linkedin.com/feed/)
 ### Personal
 
-◆ ⚡ 💬 About me: I like playing with my son, enjoying a cup of té in the afternoon on spring days, watching a Syfy movie, listening to electro music, tasting a delicious dish, taking a walk in the woods with my family. 👨‍👩‍👦
+◆ ⚡ 💬 About me: I like playing with my son, enjoying a cup of té in the afternoon on spring days, watching a Syfy movie, listening to electro music, tasting a delicious dish, taking a walk in the woods with my family. 
 -->
