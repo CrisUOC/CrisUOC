@@ -4,7 +4,7 @@
 [](https://github.com/CrisOUC/Captura de pantalla 2022-11-03 a las 23.04.47.png)
 **CrisUOC/CrisUOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ### Worksplace
-◆ Currently, I work on a company where we offer services to manage transactions using the blockchain platform.     
+◆ Currently, I work on a company where we offer services to manage transactions using the blockchain technology.     
 ◆ In the future I would like collaborate on a company that implements AI in the neurology area.        
 ◆ I look for the way to get better involved in the programming area. 👷‍♂️
 ### Contact
